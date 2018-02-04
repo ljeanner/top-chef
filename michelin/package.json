@@ -1,0 +1,6 @@
+{
+    "titre": "string",
+    "chef": "string",
+    "adresse":"string",
+    "etoile":"int"
+}
