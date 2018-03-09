@@ -1,5 +1,6 @@
 var request = require("request");
 var cheerio = require("cheerio");
+console.log("ici");
 
 request({
   uri: "https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin",
